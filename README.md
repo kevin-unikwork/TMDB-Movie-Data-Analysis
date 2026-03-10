@@ -121,10 +121,10 @@ A comprehensive Exploratory Data Analysis (EDA) of the **TMDB Movies Dataset 202
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/tmdb-eda.git
-cd tmdb-eda
+git clone https://github.com/kevin-unikwork/TMDB-Movie-Data-Analysis.git
+cd TMDB-Movie-Data-Analysis
 pip install pandas numpy matplotlib seaborn plotly jupyter
-jupyter notebook TMDB_EDA.ipynb
+jupyter notebook TMDB_Movies_EDA.ipynb
 ```
 
 Download the dataset from [Kaggle – TMDB Movies Dataset 2024](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) and place it in the project root.
