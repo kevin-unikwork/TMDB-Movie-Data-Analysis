@@ -6,7 +6,7 @@
 ![Dataset](https://img.shields.io/badge/Records-1%2C375%2C553-success)
 ![Source](https://img.shields.io/badge/Source-Kaggle%20TMDB%202023-orange)
 
-A comprehensive Exploratory Data Analysis (EDA) of the **TMDB Movies Dataset 2023** from Kaggle, covering **1,375,553 movies** spanning from 1865 to 2058. This project uncovers patterns in budget, revenue, genre popularity, production geography, and temporal trends across the global film industry.
+A comprehensive Exploratory Data Analysis (EDA) of the **TMDB Movies Dataset 2024** from Kaggle, covering **1,375,553 movies** spanning from 1865 to 2058. This project uncovers patterns in budget, revenue, genre popularity, production geography, and temporal trends across the global film industry.
 
 ---
 
@@ -24,7 +24,7 @@ A comprehensive Exploratory Data Analysis (EDA) of the **TMDB Movies Dataset 202
 
 | Attribute | Value |
 |---|---|
-| Source | Kaggle – TMDB Movies Dataset 2023 |
+| Source | Kaggle – TMDB Movies Dataset 2024 |
 | Raw Records | 1,376,742 |
 | After Cleaning | 1,375,553 |
 | Total Columns | 20 (+ 4 engineered) |
@@ -127,7 +127,7 @@ pip install pandas numpy matplotlib seaborn plotly jupyter
 jupyter notebook TMDB_EDA.ipynb
 ```
 
-Download the dataset from [Kaggle – TMDB Movies Dataset 2023](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) and place it in the project root.
+Download the dataset from [Kaggle – TMDB Movies Dataset 2024](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) and place it in the project root.
 
 ---
 
